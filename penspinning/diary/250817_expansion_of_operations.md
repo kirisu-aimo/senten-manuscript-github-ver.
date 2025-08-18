@@ -47,7 +47,7 @@ M(n)M(0^\circ) = R(2n)
 T(\tau/4)\left\langle \mathrm{charge}\right\rangle  = R(-90^\circ)\left\langle \mathrm{charge}\right\rangle 
 ```
 であることが分かるだろう．
-一般に，1周期ごとに $m$ 回転する技$\langle x\rangle$に関しては以下の式が成り立つようと考えることができる．
+一般に，1周期ごとに $m$ 回転する技$`\langle x\rangle`$に関しては以下の式が成り立つようと考えることができる．
 ```math
 T(n\tau)\langle x\rangle  = R(2mn\pi)\langle x\rangle
 ```
