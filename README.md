@@ -2,4 +2,4 @@
 ここでは私の記事を読むことができます．
 # リポジトリ内記事リンク
 ## 日記
-[AiMoの旋転分析日記](penspinning/diary/diary.md)
+[AiMoの旋転分析日記](penspinning/diary/000000_main.md)
