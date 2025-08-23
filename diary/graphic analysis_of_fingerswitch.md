@@ -30,7 +30,7 @@
 内余指の本数を**内余数**と呼ぶ．
 
 > [!Note]
-> あるスロット $\boldsymbol{x}$ の内余数をベクトル $\boldsymbol{x}$ の関数として $i(`\boldsymbol{x}) = i(x^-, x^+)$ とすると，その関数は，
+> あるスロット $\boldsymbol{x}$ の内余数をベクトル $\boldsymbol{x}$ の関数として $i(\boldsymbol{x}) = i(x^-, x^+)$ とすると，その関数は，
 > ```math
 > i(\boldsymbol{x}) = x^+ - x^- - 1
 > ```
