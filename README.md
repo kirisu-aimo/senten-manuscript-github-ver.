@@ -4,4 +4,4 @@
 ## 分析
 [個人的解釈単語帳](analysis/word_book.md)
 ## 日記
-[AiMoの旋転分析日記](diary/000000_main.md)
+[AiMoの旋転分析日記](diary/main.md)
