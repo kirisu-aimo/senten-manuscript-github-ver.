@@ -213,7 +213,7 @@ if __name__ == '__main__':
     contents.append(Page(
         title='『反転操作・並進操作・回転操作』',
         date='25/08/17 ~ ',
-        filename='expansion_of_operation.md',
+        filename='expansion_of_operations.md',
         ))
     page = contents[-1]
     contents.append(Header(

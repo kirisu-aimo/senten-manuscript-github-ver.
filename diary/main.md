@@ -34,12 +34,12 @@
 |[# > # > #](an_introduction_of_notation.md#新しい接辞はどのようなものか) - 新しい接辞はどのようなものか|25/08/24|
 |[# > # > #](an_introduction_of_notation.md#単位表記法とはなにか) - 単位表記法とはなにか|25/08/25|
 |[# > # > #](an_introduction_of_notation.md#接とはなにか) - 接とはなにか|25/08/26|
-|[#](expansion_of_operation.md) - 『反転操作・並進操作・回転操作』|25/08/17 ~ |
-|[# > #](expansion_of_operation.md#操作の拡張) - 操作の拡張|25/08/17|
-|[# > #](expansion_of_operation.md#操作の合成と比較) - 操作の合成と比較|25/08/17|
-|[#](expansion_of_operation.md) - 『フィンガースイッチの図解分析』|25/08/24 ~|
-|[# > #](expansion_of_operation.md#スロットに関する数的表現) - スロットに関する数的表現|25/08/24|
-|[# > #](expansion_of_operation.md#フィンガースイッチの数的表現) - フィンガースイッチの数的表現|未定|
+|[#](expansion_of_operations.md) - 『反転操作・並進操作・回転操作』|25/08/17 ~ |
+|[# > #](expansion_of_operations.md#操作の拡張) - 操作の拡張|25/08/17|
+|[# > #](expansion_of_operations.md#操作の合成と比較) - 操作の合成と比較|25/08/17|
+|[#](expansion_of_operations.md) - 『フィンガースイッチの図解分析』|25/08/24 ~|
+|[# > #](expansion_of_operations.md#スロットに関する数的表現) - スロットに関する数的表現|25/08/24|
+|[# > #](expansion_of_operations.md#フィンガースイッチの数的表現) - フィンガースイッチの数的表現|未定|
 
 
 
