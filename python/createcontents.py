@@ -4,9 +4,6 @@ from dataclasses import dataclass
 from abc import ABCMeta, abstractmethod
 import pyperclip
 
-class Emoji(StrEnum):
-    BOOK = ":open_book:"
-    PAGE = ":page_facing_up:"
 
 def markdown_link(title:str, link:str):
     return f"[{title}]({link})"
@@ -226,6 +223,7 @@ if __name__ == '__main__':
         date='25/08/17',
         parent=page,
         ))
+    
     # フィンガースイッチの図解分析
     contents.append(Page(
         title='『フィンガースイッチの図解分析』',
