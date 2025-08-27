@@ -25,15 +25,15 @@
 |[# > #](role_of_notations.md#慣用-理論のグラデーション) - 慣用-理論のグラデーション|25/08/18|
 |[# > #](role_of_notations.md#表記法の一般かと特殊化) - 表記法の一般かと特殊化|25/08/19|
 |[# > #](role_of_notations.md#表記法すなわち世界の創り方) - 表記法すなわち"世界"の創り方|25/08/20|
-|[#](an_introduction_of_rotation.md) - 『表記法入門』|25/08/20 ~|
-|[# > #](an_introduction_of_rotation.md#慣用表現が抱える課題) - 慣用表現が抱える課題|25/08/20 ~|
-|[# > # > #](an_introduction_of_rotation.md#単体技のフィンガースイッチの回数が不定である) - 単体技のフィンガースイッチの回数が不定である|25/08/20|
-|[# > # > #](an_introduction_of_rotation.md#回転についての記述に規則性がない) - 回転についての記述に規則性がない|25/08/21|
-|[# > # > #](an_introduction_of_rotation.md#接辞の整理が不十分である) - 接辞の整理が不十分である|25/08/22|
-|[# > #](an_introduction_of_rotation.md#理論表記法による課題解決) - 理論表記法による課題解決|25/08/24 ~|
-|[# > # > #](an_introduction_of_rotation.md#新しい接辞はどのようなものか) - 新しい接辞はどのようなものか|25/08/24|
-|[# > # > #](an_introduction_of_rotation.md#単位表記法とはなにか) - 単位表記法とはなにか|25/08/25|
-|[# > # > #](an_introduction_of_rotation.md#接とはなにか) - 接とはなにか|25/08/26|
+|[#](an_introduction_of_notation.md) - 『表記法入門』|25/08/20 ~|
+|[# > #](an_introduction_of_notation.md#慣用表現が抱える課題) - 慣用表現が抱える課題|25/08/20 ~|
+|[# > # > #](an_introduction_of_notation.md#単体技のフィンガースイッチの回数が不定である) - 単体技のフィンガースイッチの回数が不定である|25/08/20|
+|[# > # > #](an_introduction_of_notation.md#回転についての記述に規則性がない) - 回転についての記述に規則性がない|25/08/21|
+|[# > # > #](an_introduction_of_notation.md#接辞の整理が不十分である) - 接辞の整理が不十分である|25/08/22|
+|[# > #](an_introduction_of_notation.md#理論表記法による課題解決) - 理論表記法による課題解決|25/08/24 ~|
+|[# > # > #](an_introduction_of_notation.md#新しい接辞はどのようなものか) - 新しい接辞はどのようなものか|25/08/24|
+|[# > # > #](an_introduction_of_notation.md#単位表記法とはなにか) - 単位表記法とはなにか|25/08/25|
+|[# > # > #](an_introduction_of_notation.md#接とはなにか) - 接とはなにか|25/08/26|
 |[#](expansion_of_operation.md) - 『反転操作・並進操作・回転操作』|25/08/17 ~ |
 |[# > #](expansion_of_operation.md#操作の拡張) - 操作の拡張|25/08/17|
 |[# > #](expansion_of_operation.md#操作の合成と比較) - 操作の合成と比較|25/08/17|

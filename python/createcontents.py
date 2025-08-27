@@ -163,7 +163,7 @@ if __name__ == '__main__':
     contents.append(Page(
         title='『表記法入門』',
         date='25/08/20 ~',
-        filename='an_introduction_of_rotation.md',
+        filename='an_introduction_of_notation.md',
         ))
     page = contents[-1]
     contents.append(Header(
